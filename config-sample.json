@@ -1,0 +1,6 @@
+{
+  "app_id": "<APPLICATION ID>",
+  "app_secret": "<APPLICATION SECRET>",
+  "refresh_token": "<CURRENT REFRESH TOKEN>",
+  "days": 90
+}

@@ -1,0 +1,5 @@
+deps
+config.json
+*.pyc
+*.zip
+.env
